@@ -1,2 +1,2 @@
 # GuildHall
-Sample brew website
+Simple shell for a website for brewery.
